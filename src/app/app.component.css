@@ -1,0 +1,13 @@
+#boxContent {
+  display: flex;
+  flex-direction: row;
+}
+
+#boxMenu {
+  background-color: black;
+  color: aqua;
+}
+
+#boxContent {
+  background-color: chocolate;
+}
